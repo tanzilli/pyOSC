@@ -1,11 +1,13 @@
-Simple experiments with [pyOSC](https://trac.v2.nl/wiki/pyOSC) and [TouchOSC](http://hexler.net/software/touchosc) on [Aria G25 module](http://www.acmesystems.it/aria)
+#TouchOSC and pyOSC
 
 #Tutorial
 
 * [Acme Systems web site](http://www.acmesystems.it/osc)
 
-#Install TouchOSC editor on Linux
+##Download and install TouchOSC editor on your PC
 
 * Download the editor from: http://hexler.net/software/touchosc#downloads
-* Uncompress touchosc-editor-1.5.6-noarch.zip
-* Run TouchOSC editor by typing: java -jar TouchOSCEditor.jar 
+
+##Download and install pyOSC
+
+* https://trac.v2.nl/wiki/pyOSC
