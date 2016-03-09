@@ -6,6 +6,6 @@ Simple experiments with [pyOSC](https://trac.v2.nl/wiki/pyOSC) and [TouchOSC](ht
 
 #Install TouchOSC editor on Linux
 
-* Download from http://hexler.net/pub/touchosc/touchosc-editor-1.5.6-noarch.zip
+* Download the editor from: http://hexler.net/software/touchosc#downloads
 * Uncompress touchosc-editor-1.5.6-noarch.zip
 * Run TouchOSC editor by typing: java -jar TouchOSCEditor.jar 
